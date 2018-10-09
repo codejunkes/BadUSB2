@@ -1,4 +1,4 @@
-Copyright (C) 09/10/2018 Samkalpa Banerjee
+Copyright (C) 09/10/2018 Sankalpa Banerjee
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License verson 2
